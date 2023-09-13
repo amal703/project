@@ -1,0 +1,4 @@
+pip3 install camelot-py
+pip3 install python-dateutil
+pip3 install opencv-python
+pip3 install ghostscript
